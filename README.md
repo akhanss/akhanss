@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on deep learning-based medical image analysis tasks.
+
+[![Azam's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhanss)](https://github.com/akhanss/github-readme-stats)
